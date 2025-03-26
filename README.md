@@ -4,7 +4,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 
 ```shell
-npx hardhat help
+npx hardhat helpgit 
 npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
